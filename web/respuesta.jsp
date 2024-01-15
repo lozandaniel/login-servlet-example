@@ -12,6 +12,7 @@
         <title>Usuario Exitoso</title>
     </head>
     <body>
-        <h1>Usuario Registrado con Exito!</h1>
+        <h1>Usuario Registrado con Exito! </h1>
+        <p>Consulte la Lista de Usuarios Hecha, Recuerde que esta se encuentra guardada en una Session.</p>
     </body>
 </html>
